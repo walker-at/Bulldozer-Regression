@@ -16,7 +16,7 @@ Table of Contents:
 * Make Predicitions on Test Dataset
 * Feature Importance
 
-1. Problem Definition
+Problem Definition:
 Given the usage and equipment configurations of a bulldozer, how well can we predict its future sale price?
 
 Data:
